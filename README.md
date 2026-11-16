@@ -38,7 +38,7 @@ What changed in each version: [CHANGELOG.md](CHANGELOG.md), also in the app (Set
 
 ## Live sharing
 
-The plan overview can share your plan live as a web page anyone with the link can follow. It stores the plan in a secret GitHub Gist, so it needs a GitHub account and a token with the *gist* permission (Settings, Live plan sharing, Create a token). A secret gist is unlisted, not private: anyone with the link can read it.
+The plan overview can share your plan live as a web page anyone with the link can follow. It keeps the plan in a secret GitHub Gist, so it needs a free GitHub account: in Settings, Live plan sharing, press **Sign in with GitHub**, type the code it shows on the GitHub page that opens, and approve PlateSeeds (gists only). A secret gist is unlisted, not private: anyone with the link can read it. *Delete from GitHub* on the plan overview removes a shared plan.
 
 ## Command line
 
