@@ -2,6 +2,12 @@
 
 Newest first. From 1.0 on, each version lists what's new, changed and fixed.
 
+## 0.9.2 (before 1.0)
+
+- **Sign in with GitHub** for live sharing: a short code to type on GitHub, no token to make by hand (Settings, Live plan sharing). Pasting a token still works.
+- **Delete from GitHub** on the plan overview removes a shared plan; stopping a share says the plan stays in your gists.
+- **Settings:** shorter texts, the details behind the ⓘ by each heading.
+
 ## 0.9.1 (before 1.0)
 
 The first public release. Everything up to now, in short. PlateSeeds plans PlateUp speedrun seeds, assuming the "Seeds affect everything" game option.
