@@ -44,6 +44,8 @@ The plan overview can share your plan live as a web page anyone with the link ca
 
 `plateseeds-cli.exe` sits beside the app, for automating searches and the rest. Run `plateseeds-cli --help` for the commands; `plateseeds-cli update-data` reads the game data without opening the app.
 
+It's installed in `%LOCALAPPDATA%\PlateSeeds.App\current`. It isn't signed yet, so on PCs with Smart App Control or a similar Windows security policy it may be blocked from running (the app itself only gets the "not signed" warning).
+
 ## Uninstall
 
 Windows Settings, Apps, PlateSeeds. Your settings and the game data it read stay in `%LOCALAPPDATA%\PlateSeeds`; delete that folder to remove them too.
