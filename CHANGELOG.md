@@ -2,9 +2,9 @@
 
 Newest first. From 1.0 on, each version lists what's new, changed and fixed.
 
-## 0.9 (before 1.0)
+## 0.9.1 (before 1.0)
 
-Everything up to now, in short. PlateSeeds plans PlateUp speedrun seeds, assuming the "Seeds affect everything" game option.
+The first public release. Everything up to now, in short. PlateSeeds plans PlateUp speedrun seeds, assuming the "Seeds affect everything" game option.
 
 - **Search:** find seeds whose card path fits a query: cards wanted or not on each card day, across a range of days, how many of a type, layouts, the front door's place, fewer customers, and blueprints a shop offers by a day. Results can be saved, resumed and scored by the wish list.
 - **Card tree:** a seed's cards day by day, the path followed or every branch, the customers each pick changes, and the starting restaurant's map.
@@ -14,3 +14,5 @@ Everything up to now, in short. PlateSeeds plans PlateUp speedrun seeds, assumin
 - **Plan overview:** the whole plan in its own window (Narrow, Wide or Rows), to keep beside the game: day keys, copy as text or image, a phone image, and a live viewer page to share.
 - **PlateHeat:** the lobby board's heat levels.
 - **Update game data:** read the cards, dishes and appliances from your PlateUp install after a game update.
+- **Installer and updates:** Setup.exe installs it for your Windows user; the app tells you when a newer version is out and updates itself. It reads the game data from your own PlateUp install on first run.
+- **Command line:** `plateseeds-cli.exe` beside the app, for automating searches and the rest.
